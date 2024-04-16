@@ -3,3 +3,5 @@ This Python script is engineered to manage and optimize network routing within a
 
 This project utilizes Mininet to construct a simulated network comprising various nodes and linkages that mirror an intricate network topology as delineated in inetmap.json. Integration with the ONOS controller via RESTConf APIs 
 enables automated governance and oversight of network flows.
+
+![screenshot](Diagram.jpg)
